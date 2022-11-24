@@ -1,3 +1,3 @@
 FROM python:alpine
 
-RUN apk add gcc g++ musl-dev
+RUN apk add gcc g++ musl-dev cargo
