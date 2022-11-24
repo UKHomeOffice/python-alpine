@@ -1,2 +1,2 @@
 # python-alpine
-Python alpine docker image
+Python alpine docker image latest
